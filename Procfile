@@ -1,0 +1,1 @@
+web:'gunicorn ola_mundo_django.wsgi
